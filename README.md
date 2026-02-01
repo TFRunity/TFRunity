@@ -2,7 +2,7 @@
 
 ---
 
-### 🕵️‍♀️ Обо мне: 
+# 🕵️‍♀️ Обо мне: 
 
 ##Веб разработчик, успевший за свои 19 лет поработать в компании, пройти 2 интенсива и стажировку в Ростелекоме. Мой путь в IT начался ещё 5 лет назад, когда впервые познакомился с C#, платформой .NET. После этого занял несколько призовых мест в городских олимпиадах и изучил несколько курсов на степике, (далее ссылки). 
 
@@ -20,9 +20,14 @@
 ##Основной стек
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50" />&nbsp
-  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50" title="csharp"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="50" height="50" title="dotnet"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50" title="docker"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" title="git"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50" title="postgresql"/>&nbsp
 </div>
+
+##Побочный стек
 
 ---
 
