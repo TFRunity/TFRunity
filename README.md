@@ -27,7 +27,7 @@ ___Основные цели на 2026___
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50" title="postgresql"/>&nbsp
 </div>
 
-### Побочный стек, обращаюсь по нужде
+### Побочный стек, обращаюсь по необходимости
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" title="css" />&nbsp
