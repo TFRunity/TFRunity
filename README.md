@@ -8,11 +8,11 @@
 
 ___Основные цели на 2026___
 
-- 🎱 Закончить 2 курс ЧГУ им. И.Н. Ульянова
-
 - ⤴️ Пройти несколько интенсивов в IT компаниях Чувашии
 
 - 🔡 Заключить контракт о целевом обучении // Найти работу мечты
+
+- 🥇 Получить оффер в IT компанию
 
 
 ---
@@ -22,6 +22,7 @@ ___Основные цели на 2026___
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50" title="csharp"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="50" height="50" title="dotnet"/>&nbsp
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="50" height="50" title="next" />&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50" title="docker"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" title="git"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50" title="postgresql"/>&nbsp
@@ -41,7 +42,6 @@ ___Основные цели на 2026___
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" width="50" height="50" title="react" />&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="50" height="50" title="swagger" />&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" width="50" height="50" title="vue" />&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="50" height="50" title="next" />&nbsp
 </div>
 
 ---
@@ -57,6 +57,6 @@ ___Основные цели на 2026___
 |03.07.2025|04.08.2025|Интенсив по Vue, .NET, Docker от компании Алькона|
 |20.10.2025|28.12.2025|Стажировка в Ростелекоме|
 |02.09.2024|03.05.2025|Участие, (дважды), в научно практической конференции ЧГУ им И.Н. Ульянова|
-|05.01.2026|12.03.2026|Обучение React + Next ts|
+|23.02.2026|12.03.2026|Обучение React + Next ts|
 
-#### Важная помарка, всё это время не отпускал учебу из рук, ЕГЭ 271 балл, со стипендии не слетал.
+#### Важная помарка, всё это время не отпускал учебу из рук, со стипендии не слетал
