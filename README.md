@@ -33,6 +33,7 @@ ___Основные цели на 2026___
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50" height="50" title="css" />&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="50" height="50" title="figma" />&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" width="50" height="50" title="nginx" />&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/googlecolab/googlecolab-original.svg" width="50" height="50" title="colab" />&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50" height="50" title="html" />&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50" height="50" title="js" />&nbsp
@@ -58,5 +59,6 @@ ___Основные цели на 2026___
 |20.10.2025|28.12.2025|Стажировка в Ростелекоме|
 |02.09.2024|03.05.2025|Участие, (дважды), в научно практической конференции ЧГУ им И.Н. Ульянова|
 |23.02.2026|12.03.2026|Обучение React + Next ts|
+|23.02.2026|02.05.2026|Участие в ЮБВ, проект Next+TS+React+Typesense+Nginx+Docker+Redis|
 
 #### Всё это время не отпускал учебу из рук, со стипендии не слетал.
