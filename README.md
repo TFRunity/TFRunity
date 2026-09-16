@@ -4,26 +4,28 @@
 
 ## 🕵️‍♀️ Обо мне: 
 
-#### Веб разработчик, успевший за свои 20 лет поработать в компании, пройти 1 интенсив| и стажировку в Ростелекоме. Мой путь в IT начался ещё 5 лет назад, когда впервые познакомился с C#, платформой .NET. После этого занял несколько призовых мест в городских олимпиадах и изучил несколько курсов на степике, (далее ссылки). 
+#### Веб разработчик, успевший за свои 20 лет поработать в компании, пройти 1 интенсив и стажировку в Ростелекоме. Мой путь в IT начался ещё 5 лет назад, когда впервые познакомился с C#, платформой .NET. В основном пишу на .NET, Go (Gin), Clojure (reframe), React + Redux + Next. Частенько беру заказы фриланса, пока обучаюсь в вузе - участвую в стартапах и хакатонах.
 
 ___Основные цели на 2026___
 
-- ⤴️ Посмотреть IT-холдинги Чувашии ✔️
+- ⤴️ Посмотреть IT-холдинги Чувашии ✔️ (Выполнено)
 
-- 🔡 Заключить контракт о целевом обучении // Найти работу мечты ✔️
+- 🔡 Заключить контракт о целевом обучении // Найти работу мечты ✔️ (Выполнено)
 
-- 🥇 Получить оффер в IT компанию на ставку junior+ ✔️
+- 🥇 Получить оффер в IT компанию на ставку junior+ ✔️ (Выполнено, но жду других предложений)
 
-- 🧘 Заняться продвижением себя ⏲️
+- 🧘 Заняться продвижением себя ⏲️ (В работе)
 
 ---
 
 ### Основной стек
 
 <div>
+  <img src="https://github.com/gin-gonic/logo/blob/master/color.svg" width="50" height="50" title="gin"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg" width="50" height="50" title="go"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" width="50" height="50" title="csharp"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/dot-net/dot-net-original.svg" width="50" height="50" title="dotnet"/>&nbsp
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="50" height="50" title="next" />&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" width="50" height="50" title="next" />&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="50" height="50" title="docker"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50" height="50" title="git"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" width="50" height="50" title="postgresql"/>&nbsp
@@ -63,6 +65,5 @@ ___Основные цели на 2026___
 |23.02.2026|02.05.2026|Участие в ЮБВ, проект Next+TS+React+Typesense+Nginx+Docker+Redis|
 |05.03.2026|----------|Работа в Альконе|
 |30.06.2026|30.06.2026|Звание лауреата в ЮБВ 2026|
+|01.08.2026|02.09.2026|Обучение GO + Gin, Выход на Upwork|
 |15.09.2026|15.09.2026|Первое место в Предпринимательских тренингах 2026|
-
-#### Всё это время не отпускал учебу из рук, со стипендии не слетал.
